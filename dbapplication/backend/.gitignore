@@ -1,0 +1,5 @@
+# Node modules
+node_modules*
+
+# Package files or directories
+package*
