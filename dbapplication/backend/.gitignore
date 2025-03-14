@@ -1,5 +1,20 @@
 # Node modules
-node_modules*
+node_modules/
 
-# Package files or directories
-package*
+# Logs
+logs/
+*.log
+
+# SQLite database files
+*.db
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other build artifacts
+dist/
+build/
